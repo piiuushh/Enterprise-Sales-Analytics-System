@@ -3,7 +3,7 @@ This project focuses on applying data analytics techniques to the sales domain. 
 
 # PPT FOR CONCLUSION IS ADDED
 
-# Libraries used 
+# Python libraries used 
 numpy 
 pandas
 matplotlib 
