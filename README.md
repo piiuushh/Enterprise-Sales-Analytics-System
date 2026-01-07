@@ -3,11 +3,11 @@ This project focuses on applying data analytics techniques to the sales domain. 
 
 # PPT FOR CONCLUSION IS ADDED
 
-#Libraries used 
+# Libraries used 
 numpy 
 pandas
 matplotlib 
 seaborn
 
-#Visualisation tool used
+# Visualisation tool used
 Power Bi
