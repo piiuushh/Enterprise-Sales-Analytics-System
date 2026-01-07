@@ -10,9 +10,8 @@ seaborn
 # Visualisation tool used
 Power Bi
 
-# Files Included
-Detailed reports
-Code files
-Documentation on analytics methodologies
-Visualizations and dashboards
-
+## Files Included
+- Detailed reports
+- Code files
+- Documentation on analytics methodologies
+- Visualizations and dashboards
