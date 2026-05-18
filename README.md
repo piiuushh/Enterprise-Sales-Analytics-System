@@ -60,12 +60,23 @@ The system processes large sales datasets to generate actionable business insigh
 
 # 📈 Dashboard Preview
 
-## Sales Performance Dashboard
+## Sales Overview Dashboard
 
 <p align="center">
-  <img src="screenshot (19).png" width="900"/>
+  <img src="Screenshot%20(19).png" width="900"/>
 </p>
 
+## Revenue Analysis Dashboard
+
+<p align="center">
+  <img src="Screenshot%20(20).png" width="900"/>
+</p>
+
+## Regional Performance Dashboard
+
+<p align="center">
+  <img src="Screenshot%20(22).png" width="900"/>
+</p>
 ---
 
 # 📊 Dashboard Insights
