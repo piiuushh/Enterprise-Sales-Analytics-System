@@ -1,13 +1,12 @@
-```markdown
-# Enterprise Sales Analytics System
+# 📊 Enterprise Sales Analytics System
 
-An end-to-end sales analytics project focused on analyzing regional sales performance, identifying revenue trends, and building interactive business intelligence dashboards using Python, Excel, SQL, and Power BI.
+An end-to-end sales analytics project focused on analyzing regional sales performance, identifying revenue trends, and building interactive business intelligence dashboards using Python, SQL, Excel, and Power BI.
 
 ---
 
-## Project Overview
+# 🚀 Project Overview
 
-The Enterprise Sales Analytics System was built to simulate a real-world business intelligence workflow involving:
+This project simulates a real-world business intelligence workflow involving:
 
 - Data Cleaning & Transformation
 - Exploratory Data Analysis (EDA)
@@ -16,38 +15,28 @@ The Enterprise Sales Analytics System was built to simulate a real-world busines
 - Regional Performance Monitoring
 - Dashboard Creation & Reporting Automation
 
-The project processes large sales datasets to generate actionable business insights and improve decision-making through data visualization and analytics.
+The system processes large sales datasets to generate actionable business insights and improve business decision-making.
 
 ---
 
-## Objectives
+# 🛠️ Tech Stack
 
-- Analyze regional sales trends and customer behavior
-- Identify high-performing and low-performing regions
-- Build automated analytical workflows
-- Create interactive dashboards for KPI monitoring
-- Improve reporting efficiency and business visibility
-
----
-
-## Tech Stack
-
-### Languages & Tools
+## Languages & Tools
 - Python
 - SQL
 - Power BI
 - Excel
 
-### Python Libraries
+## Python Libraries
 - Pandas
 - NumPy
 - Matplotlib
 
 ---
 
-## Key Features
+# ✨ Key Features
 
-- Processed 100K+ sales records for analysis
+- Processed 100K+ sales records for business analysis
 - Automated ETL and preprocessing workflows in Python
 - Performed detailed EDA on sales and regional performance
 - Built KPI-driven Power BI dashboards
@@ -56,54 +45,63 @@ The project processes large sales datasets to generate actionable business insig
 
 ---
 
-## Project Files
+# 📂 Project Files
 
 | File Name | Description |
 |------------|-------------|
-| `EDA_Regional_Sales_Analysis.ipynb` | Jupyter Notebook containing data cleaning, preprocessing, and EDA |
+| `EDA_Regional_Sales_Analysis.ipynb` | Data cleaning, preprocessing, and EDA notebook |
 | `Regional Sales Dataset.xlsx` | Raw sales dataset |
-| `Sales_data(EDA Exported).xlsx` | Cleaned/exported dataset after EDA |
+| `Sales_data(EDA Exported).xlsx` | Cleaned/exported dataset |
 | `SALES REPORT.pbix` | Interactive Power BI dashboard |
-| `PPT for summary Regional Sales Analysis.pptx` | Project summary presentation |
+| `PPT for summary Regional Sales Analysis.pptx` | Project presentation |
 | `README.md` | Project documentation |
 
 ---
 
-## Dashboard Insights
+# 📈 Dashboard Preview
 
-The Power BI dashboard provides:
+## Sales Performance Dashboard
+
+<p align="center">
+  <img src="images/dashboard.png" width="900"/>
+</p>
+
+---
+
+# 📊 Dashboard Insights
+
+The Power BI dashboard includes:
 
 - Revenue & Profit KPIs
 - Regional Sales Comparison
 - Growth Trend Analysis
 - Seasonal Demand Analysis
 - Customer & Product Insights
-- Interactive Filters and Drilldowns
+- Interactive Filters & Drilldowns
 
 ---
 
-## Business Impact
+# 🎯 Business Impact
 
 - Reduced manual reporting dependency through automation
 - Improved forecast visibility using trend analysis
-- Enabled data-driven decision making through KPI dashboards
+- Enabled data-driven decision-making through KPI dashboards
 - Streamlined analytical workflows for scalable reporting
 
 ---
 
-## Future Improvements
+# 🔮 Future Improvements
 
-- Integrate SQL database connectivity
-- Add predictive sales forecasting models
-- Deploy dashboard online using Power BI Service
-- Build automated data pipelines for live updates
+- SQL database integration
+- Predictive sales forecasting
+- Power BI Service deployment
+- Automated live ETL pipelines
 
 ---
 
-## Author
+# 👨‍💻 Author
 
-**Piyush Singh**  
-GitHub: https://github.com/piiuushh  
-LinkedIn: https://linkedin.com/in/piiuushh
+### Piyush Singh
 
-```
+- GitHub: https://github.com/piiuushh
+- LinkedIn: https://linkedin.com/in/piiuushh
