@@ -63,7 +63,7 @@ The system processes large sales datasets to generate actionable business insigh
 ## Sales Performance Dashboard
 
 <p align="center">
-  <img src="images/dashboard.png" width="900"/>
+  <img src="screenshot (19).png" width="900"/>
 </p>
 
 ---
